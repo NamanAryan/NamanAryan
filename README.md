@@ -1,81 +1,165 @@
-# <div align="center">👋 Hello World, I'm Naman Aryan</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Passionate+Fullstack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=namanaryan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+# Hi there 👋, I'm Naman Aryan
 
-## 💫 About Me
-- 🔭 A passionate **Fullstack Developer** from India
-- 🌱 Currently mastering the **MERN Stack** (MongoDB, Express, React, Node.js)  
-- 👨‍💻 View my projects at [github.com/NamanAryan](https://github.com/NamanAryan)
-- 🎯 Goals: Contribute to Open Source projects and build impactful applications
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under 1 minute!**
+### Full Stack Developer | AI Enthusiast | Problem Solver
 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-Powered+Applications;MERN+%2B+FastAPI+Developer;DSA+Enthusiast;Always+Learning+Something+New" />
 
-<div align="center">
-  
-  ### Frontend
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-  ### Backend
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-  ### Programming Languages
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-  ### Tools & Platforms
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namanaryan&show_icons=true&theme=tokyonight" alt="Naman's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namanaryan&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanaryan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-## 🔗 Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/naman-aryan-3b1820296" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:namanaryan08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/NamanAryan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 ---
 
+## 🚀 About Me
+
+- 🎓 Final Year B.Tech CSE Student at **Manipal Institute of Technology, Bengaluru**
+- 💻 Passionate about building **scalable Full Stack and AI-powered applications**
+- 🧠 Strong interest in **Generative AI, RAG Systems, and Backend Engineering**
+- 🌱 Currently exploring **LLMs, LangChain, Vector Databases, and System Design**
+- 🎯 Preparing for **Software Engineering roles***
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
+
+### AI / ML
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 NeuraAI
+AI-powered RAG chatbot using **FastAPI, LangChain, ChromaDB, and Gemini AI**
+
+- Document Q&A with semantic search
+- Vector embeddings using HuggingFace
+- Retrieval-Augmented Generation pipeline
+
+---
+
+### 🌦️ Pilot Weather
+
+Aviation weather platform built with **React + FastAPI**
+
+- Real-time aviation weather data
+- METAR/TAF analysis
+- Flight weather insights
+
+---
+
+### 🌍 ESG Digital Twin
+
+Weather-aware ESG infrastructure monitoring platform
+
+- Predicts delays and cost overruns
+- AI-driven sustainability insights
+- Built during hackathons
+
+---
+
+### 🔍 ChainSleuth
+
+AI-powered AML & fraud detection platform for blockchain transactions.
+
+---
+
+## 🏆 Achievements
+
+🥇 Top 10 / 869 — M Manipal Nationwide Hackathon
+
+🥈 Top 6 / 100 — MIT Bengaluru Codeathon
+
+🏅 Top 25 / 250+ — Honeywell × MIT Hackathon
+
+---
+
+## 📈 Coding Journey
+
+- Solved **120+ DSA problems**
+- Completed **NeetCode 150**
+- Strong foundation in:
+  - Arrays
+  - Trees
+  - Graphs
+  - Backtracking
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NamanAryan&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NamanAryan&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanAryan&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/naman-aryan-3b1820296">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:namanaryan08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NamanAryan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### "Building impactful software, one commit at a time."
+
 </div>
