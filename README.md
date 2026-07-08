@@ -116,7 +116,7 @@ AI-powered AML & fraud detection platform for blockchain transactions.
 
 ## 📈 Coding Journey
 
-- Solved **125+ DSA problems**
+- Solved **150+ DSA problems**
 - Completed **NeetCode 150**
 - Strong foundation in:
   - Arrays
