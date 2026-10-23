@@ -23,7 +23,7 @@
 
 ## 💼 Experience
 
-- **Software Engineering Intern → Associate SDE (PPO)** — Namma Yatri (Moving Tech Innovations), Bengaluru · Oct 2026 – present
+- **Software Engineering Intern → Associate SDE** — Namma Yatri (Moving Tech Innovations), Bengaluru · Oct 2026 – present
 - **Full-Stack Developer Intern** — CyberTech Systems Ltd. · Jun – Aug 2026
   - Built the **CyberPulse Admin Portal** using .NET
 - **AI/ML Intern** — CyberTech Systems Ltd. · May – Jul 2025
@@ -46,7 +46,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend
 
