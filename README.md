@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🎓 Final Year B.Tech IT Student at **Manipal Institute of Technology, Bengaluru**
-- 🚖 Joining **Namma Yatri (Moving Tech Innovations)** as a Software Engineering Intern in Oct 2026, with a PPO as Associate Software Development Engineer
+- 🚖 Joined **Namma Yatri (Moving Tech Innovations)** as an Associate Software Engineering Intern in Oct 2026
 - 💻 Passionate about building **scalable Full Stack and AI-powered applications**
 - 🧠 Strong interest in **Generative AI, RAG Systems, and Backend Engineering**
 - 🌱 Currently learning **Haskell**, and exploring **LLMs, LangChain, Vector Databases, and System Design**
