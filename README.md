@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | AI Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-Powered+Applications;MERN+%2B+FastAPI+Developer;DSA+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+AI-Powered+Applications;MERN+%2B+FastAPI+Developer;Incoming+SDE+at+Namma+Yatri;Always+Learning+Something+New" />
 
 </div>
 
@@ -12,11 +12,21 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech CSE Student at **Manipal Institute of Technology, Bengaluru**
+- 🎓 Final Year B.Tech IT Student at **Manipal Institute of Technology, Bengaluru**
+- 🚖 Joining **Namma Yatri (Moving Tech Innovations)** as a Software Engineering Intern in Oct 2026, with a PPO as Associate Software Development Engineer
 - 💻 Passionate about building **scalable Full Stack and AI-powered applications**
 - 🧠 Strong interest in **Generative AI, RAG Systems, and Backend Engineering**
-- 🌱 Currently exploring **LLMs, LangChain, Vector Databases, and System Design**
-- 🎯 Preparing for **Software Engineering roles***
+- 🌱 Currently learning **Haskell**, and exploring **LLMs, LangChain, Vector Databases, and System Design**
+- 📄 Two peer-reviewed publications
+
+---
+
+## 💼 Experience
+
+- **Software Engineering Intern → Associate SDE (PPO)** — Namma Yatri (Moving Tech Innovations), Bengaluru · Oct 2026 – present
+- **Full-Stack Developer Intern** — CyberTech Systems Ltd. · Jun – Aug 2026
+  - Built the **CyberPulse Admin Portal** using .NET
+- **AI/ML Intern** — CyberTech Systems Ltd. · May – Jul 2025
 
 ---
 
@@ -29,6 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### Frontend
 
@@ -43,11 +54,13 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
 
